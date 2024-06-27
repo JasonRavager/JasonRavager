@@ -37,7 +37,7 @@ I'm Jason, a full stack web developer from the Philippines.
   <img width="10" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node js logo" />
   <img width="10" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express js logo" />
+  <img width="30px" style="background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express js logo" />
   <img width="10" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb logo" />
   <img width="10" />
