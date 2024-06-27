@@ -16,12 +16,14 @@ I'm Jason, a full stack web developer from the Philippines.
 
 ## :toolbox: Languages and Tools
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,ts,java,py,tailwind,bootstrap,vite,react,nodejs,express,mongodb,git)](https://skillicons.dev)
+
 <div align="left">
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5 logo" />
   <img width="10" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3 logo" />
   <img width="10" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3 logo" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript logo" />
   <img width="10" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java logo" />
   <img width="10" />
